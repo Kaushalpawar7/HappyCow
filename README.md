@@ -1,4 +1,4 @@
-# Happy Cow: AI-Driven Cow Disease Prediction
+# Happy Cow: ML-Driven Cow Disease Prediction
 
 Happy Cow is an AI-powered project to predict cow diseases like mastitis and lameness using machine learning, aimed at empowering farmers with accessible diagnostics.
 
